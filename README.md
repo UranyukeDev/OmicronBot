@@ -26,7 +26,7 @@ This bot was designed for fun interactions and simple multiplayer games through 
 | **Cool Car** | `>play car` | Avoid obstacles and fuel up your car while scoring |
 | **Connect 4** | `>play connect4` | Two-player Connect 4 game using reactions |
 | **Escape Game** | `>play escape` | Navigate a grid to escape various levels and enemies |
-| **Fallen World** | `>fw newgame`, `>fw info`, etc. | Manage a post-apocalyptic village and its survival stats |
+| **Fallen World** | `>fw newgame`, `>fw info`, etc. | Manage a post-apocalyptic village and its survival stats (not finished) |
 
 ---
 
